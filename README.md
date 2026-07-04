@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=for-the-badge&color=yellow)](https://github.com/ashishpatel26/500-AI-Agents-Projects/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ashishpatel26/500-AI-Agents-Projects?style=for-the-badge&color=blue)](https://github.com/ashishpatel26/500-AI-Agents-Projects/network/members)
-[![Contributors](https://img.shields.io/github/contributors/ashishpatel26/500-AI-Agents-Projects?style=for-the-badge&color=green)](https://github.com/ashishpatel26/500-AI-Agents-Projects/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/mohamedrasikr/500-AI-Agents-Projects?style=for-the-badge&color=yellow)](https://github.com/mohamedrasikr/500-AI-Agents-Projects/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mohamedrasikr/500-AI-Agents-Projects?style=for-the-badge&color=blue)](https://github.com/mohamedrasikr/500-AI-Agents-Projects/network/members)
+[![Contributors](https://img.shields.io/github/contributors/mohamedrasikr/500-AI-Agents-Projects?style=for-the-badge&color=green)](https://github.com/mohamedrasikr/500-AI-Agents-Projects/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTION.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/ashishpatel26/500-AI-Agents-Projects?style=for-the-badge)](https://github.com/ashishpatel26/500-AI-Agents-Projects/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/mohamedrasikr/500-AI-Agents-Projects?style=for-the-badge)](https://github.com/mohamedrasikr/500-AI-Agents-Projects/commits/main)
 
 **The most comprehensive collection of AI agent projects, use cases, and working implementations.**
 
@@ -37,7 +37,7 @@ Pick a framework and run an agent in under 5 minutes:
 
 ```bash
 # Clone the repo
-git clone https://github.com/ashishpatel26/500-AI-Agents-Projects.git
+git clone https://github.com/mohamedrasikr/500-AI-Agents-Projects.git
 cd 500-AI-Agents-Projects
 
 # Run any agent from the agents/ directory
@@ -272,55 +272,16 @@ State-machine framework for complex, stateful agent workflows and RAG pipelines.
 
 ---
 
-## 🤝 Contributing
+## Maintained By
 
-Contributions are welcome! 🎉 This repo grows through community contributions.
+**Mohamed Rasik**
 
-**Ways to contribute:**
-1. **Add a working agent** — create a folder in `agents/` with runnable code
-2. **Add an external link** — add a row to the industry or framework tables
-3. **Fix a broken link** — open an issue or PR
-4. **Improve documentation** — fix typos, add context, improve examples
+🌐 Website: https://mohamedrasik.space
 
-**To contribute:**
-1. Fork the repository
-2. Create a branch: `feat/agent-name` or `fix/description`
-3. Add your changes following the [Contributing Guidelines](CONTRIBUTION.md)
-4. Open a PR using the PR template
+💼 LinkedIn: https://linkedin.com/in/mohamedrasikr
 
-See [CONTRIBUTION.md](CONTRIBUTION.md) for full requirements (metadata.yaml, requirements.txt, etc.).
+🐙 GitHub: https://github.com/mohamedrasikr
 
 ---
 
-## Star History
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
-  />
-</picture>
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it useful — it helps others discover it!**
-
-[Report Issue](https://github.com/ashishpatel26/500-AI-Agents-Projects/issues) • [Request Agent](https://github.com/ashishpatel26/500-AI-Agents-Projects/issues/new?template=feature_request.md) • [Contribute](CONTRIBUTION.md)
-
-</div>
+> This repository is forked from the original work by Ashish Patel and is maintained with additional resources and updates.
