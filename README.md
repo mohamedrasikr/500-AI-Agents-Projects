@@ -284,4 +284,4 @@ State-machine framework for complex, stateful agent workflows and RAG pipelines.
 
 ---
 
-> This repository is forked from the original work by Ashish Patel and is maintained with additional resources and updates.
+> This repository is forked from the original work by Mohamed Rasik and is maintained with additional resources and updates.
